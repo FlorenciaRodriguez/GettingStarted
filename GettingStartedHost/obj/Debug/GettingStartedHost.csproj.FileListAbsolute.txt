@@ -1,0 +1,8 @@
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.exe
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedHost.pdb
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedLib.dll
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.csprojResolveAssemblyReference.cache
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.exe
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.pdb

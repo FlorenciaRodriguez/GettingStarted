@@ -1,0 +1,5 @@
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.dll
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.pdb

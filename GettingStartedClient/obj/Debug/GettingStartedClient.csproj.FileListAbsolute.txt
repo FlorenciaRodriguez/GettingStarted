@@ -1,0 +1,6 @@
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
+C:\Users\DellPladema\Documents\Flor\ws\visual\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.csprojResolveAssemblyReference.cache
